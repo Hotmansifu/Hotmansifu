@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on various of projects<br>👯 I’m looking to collaborate with anybody who is willing to put work in the job<br>🌱 I’m currently learning variety of things concerning tech<br>💬 Feel free to contact me if you have questions!
-
+---
+![](https://komarev.com/ghpvc/?username=Hotmansifu)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luka-andghuladze-866382210/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/LukaAndguladze7) 
@@ -12,7 +13,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hotmansifu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hotmansifu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Hotmansifu&icon=0&color=1)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
