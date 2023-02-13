@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on various of projects<br>I’m looking to collaborate with anybody who is willing to put work in the job<br>🌱 I’m currently learning variety of things concerning tech<br>💬 Feel free to contact me if you have questions!
+🔭 I’m currently working on various of projects<br>🔭I’m looking to collaborate with anybody who is willing to put work in the job<br>🌱 I’m currently learning variety of things concerning tech<br>💬 Feel free to contact me if you have questions!
 ---
 ![](https://komarev.com/ghpvc/?username=Hotmansifu)
 
